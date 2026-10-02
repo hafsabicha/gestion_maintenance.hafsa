@@ -1,0 +1,15 @@
+{
+  "admin": {
+    "name": "Administrateur",
+    "role": "admin",
+    "salt": "6306b8a9d43d46e6a3b45180bcb0cd8c",
+    "hash": "6594214179aea0e401fd44edf6501039afa9e0dbbf540a7ebe943d66307fdd85",
+    "active": true,
+    "tech_code": "",
+    "created": "2026-10-02 10:58",
+    "failed": 0,
+    "locked_until": 0,
+    "default_pwd": true,
+    "last_login": "2026-10-02 11:08"
+  }
+}
